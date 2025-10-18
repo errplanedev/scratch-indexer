@@ -1,3 +1,5 @@
+// Copyright (C) 2025 errplanedev (hi@dour.com)
+
 import express from 'express';
 import Logger from './utils/logger/Logger';
 import { getMainPage } from './utils/forums/indexTopics';
